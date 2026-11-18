@@ -1,4 +1,4 @@
 ### Hi there I am a Happy DEV👋
-- Security engineer by day
-- Full stack vibe coder by night
+- Security Engineer by day 
+- Full Stack vibe coder by night
 
